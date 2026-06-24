@@ -148,9 +148,4 @@ Spotify's recommendation algorithm remains the strongest in the market and is it
 
 ---
 
-## About
 
-**Gailer Jemwa**  
-Final-year Product Design student, Parul University  
-UX/UI Design Intern at Unified Mentor & Banao.tech  
-[LinkedIn](https://linkedin.com) · [Portfolio](#)
