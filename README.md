@@ -1,6 +1,3 @@
-# spotify-premium-ux-strategy
-UX strategy case study analysing Spotify Premium's subscription model  : covering user personas, journey mapping, churn reduction, and India market retention. Unified Mentor project.`
-[README.md](https://github.com/user-attachments/files/29311881/README.md)
 # Spotify Premium — UX Strategy for Subscription Growth & Retention
 
 **Unified Mentor Internship Project · Advanced Level**  
